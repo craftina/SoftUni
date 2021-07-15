@@ -1,0 +1,13 @@
+#notification{
+    display: inline-block;
+    background-color: #ff6666;
+    padding: 20px 40px;
+    color: black;
+    position: fixed;
+    top: 40px;
+    margin-left: 750px;
+    width: 150px;
+    text-align: center;
+    cursor: pointer;
+    
+}
